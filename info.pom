@@ -3,4 +3,7 @@
   <name>Lightweight Geometry</name>
   <description>A lightweight geometry library</description>
   <url>https://github.com/topobyte/lightweight-geometry</url>
+  <licenseName>GNU Lesser General Public License (LGPL), Version 3</licenseName>
+  <licenseUrl>https://www.gnu.org/licenses/lgpl-3.0.txt</licenseUrl>
+  <licenseDistribution>repo</licenseDistribution>
 </project>

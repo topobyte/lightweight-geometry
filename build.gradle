@@ -58,9 +58,9 @@ subprojects {
                         url pomInfo.url
                         licenses {
                             license {
-                                name 'GNU Lesser General Public License (LGPL), Version 3'
-                                url 'https://www.gnu.org/licenses/lgpl-3.0.txt'
-                                distribution 'repo'
+                                name pomInfo.licenseName
+                                url pomInfo.licenseUrl
+                                distribution pomInfo.licenseDistribution
                             }
                         }
                     }
