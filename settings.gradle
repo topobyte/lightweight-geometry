@@ -1,0 +1,4 @@
+include 'core', 'android', 'awt'
+project(':core').name = 'lightweight-geometry'
+project(':android').name = 'lightweight-geometry-android'
+project(':awt').name = 'lightweight-geometry-awt'
